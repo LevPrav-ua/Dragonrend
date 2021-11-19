@@ -1,0 +1,3 @@
+﻿  enemy.cpp
+D:\УЧЁБА\C++\Games\BigGun\gun.h(37,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  BigGun.vcxproj -> D:\УЧЁБА\C++\Games\BigGun\Debug\BigGun.exe

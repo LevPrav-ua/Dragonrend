@@ -1,0 +1,212 @@
+﻿  BigGun.cpp
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\gun.h(37,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(34,20): warning C4305: инициализация: усечение из "double" в "const float"
+  enemy.cpp
+D:\УЧЁБА\C++\Games\BigGun\gun.h(37,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  entity.cpp
+  gun.cpp
+D:\УЧЁБА\C++\Games\BigGun\gun.h(37,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\УЧЁБА\C++\Games\BigGun\gun.cpp(121,29): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  engine.cpp
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\gun.h(37,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\УЧЁБА\C++\Games\BigGun\Engine.h(34,20): warning C4305: инициализация: усечение из "double" в "const float"
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(8,20): warning C4244: =: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(9,20): warning C4244: =: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(20,55): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(20,41): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(35,61): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(42,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(211,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(214,9): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(219,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(222,9): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(225,82): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(261,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(262,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(265,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(266,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(269,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(270,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(273,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(274,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(277,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(278,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(287,101): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(287,82): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(287,63): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(287,40): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(290,97): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(290,79): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(290,61): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(290,39): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(293,113): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(293,91): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(293,69): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(293,43): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(296,97): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(296,79): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(296,61): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(296,39): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(393,62): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\УЧЁБА\C++\Games\BigGun\engine.cpp(422,60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 218 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  BigGun.vcxproj -> D:\УЧЁБА\C++\Games\BigGun\Release\BigGun.exe

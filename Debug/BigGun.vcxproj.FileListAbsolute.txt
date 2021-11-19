@@ -1,0 +1,2 @@
+D:\УЧЁБА\C++\Games\BigGun\Debug\BigGun.exe
+D:\УЧЁБА\C++\Games\BigGun\Debug\BigGun.pdb
